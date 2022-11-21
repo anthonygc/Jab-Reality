@@ -1,4 +1,4 @@
-# JabVirtualReality: A Gamified Virtual Reality Boxing Experience using the Unity game engine
+# VJab: A Gamified Virtual Reality Boxing Experience using the Unity game engine
 
 ### Immersive and Entertaining Exercise
 
