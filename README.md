@@ -1,8 +1,8 @@
-# JabVR: Gamified VR Boxing
+# JabVirtualReality: A Gamified Virtual Reality Boxing Experience using the Unity game engine
 
 ### Immersive and Entertaining Exercise
 
 - Gamified virtual reality boxing which allows you to track your health goals.
-- Multiplayer experience and in game incentive based on performance.
-- Hand tracking enabled which increases immersion
+- Hand tracking enabled for increased immersion
+- Possible Haptic Glove integreation?
 
